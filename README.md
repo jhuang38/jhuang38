@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm James Huang, a Computer Engineering student at the University of Waterloo.
+## Hi there! 👋 I'm James Huang, a Computer Engineering student at the University of Waterloo.
 
 ### About me
 - 🌱 I’m currently learning the MERN stack
