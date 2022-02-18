@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning the MERN stack!
 - 📫 Feel free to reach out to me at j528huan@uwaterloo.ca
-- ⚡ Fun fact: I'm planning on learning data science technologies with Python, including Matplotlib, Pandas, and Numpy!
+- ⚡ I'm planning on learning data science technologies with Python, including Matplotlib, Pandas, and Numpy!
 
