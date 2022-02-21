@@ -1,6 +1,6 @@
 #### Hi there! 👋 I'm James Huang, a Computer Engineering student at the University of Waterloo.
 
-- 🌱 I’m currently learning the MERN stack!
+- 🌱 Some of my current skills include React, Express, and MongoDB!
 - 📫 Feel free to reach out to me at j528huan@uwaterloo.ca
-- ⚡ I'm planning on learning data science technologies with Python, including Matplotlib, Pandas, and Numpy!
+- ⚡ I'm currently learning data science technologies with Python, including Matplotlib, Pandas, and Numpy!
 
