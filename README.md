@@ -2,4 +2,4 @@
 
 - 🌱 Some of my current skills include React, Typescript, and Python!
 - 📫 Feel free to reach out to me at j528huan@uwaterloo.ca
-- ⚡ I'm looking at learning Next.js and C#/Unity in my spare time!
+- ⚡ I'm looking at learning Next.js, C#/Unity, and more in my spare time!
