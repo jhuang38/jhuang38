@@ -2,4 +2,4 @@
 
 -  Some of my current skills include React, Python, and SQL!
 -  Feel free to reach out to me at j528huan@uwaterloo.ca
--  I'm looking at learning Redis, WebSockets, and more in my spare time!
+-  I'm looking at learning Redis, Rust, and more in my spare time!
