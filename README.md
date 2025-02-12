@@ -1,6 +1,5 @@
 #### Heyo! 👋 I'm James, a Computer Science student at the University of Waterloo.
 
--  The main languages I'm familiar with are JavaScript, Python, C++, Java, and Rust!
--  My main interests are in backend/fullstack development, but I'm always looking to learn new things!
+-  The main languages I'm familiar with are JavaScript/TypeScript, Python, Rust, C++,  and Java!
+-  My main interests are in backend/fullstack development, but I'm always looking to learn new things! Currently trying to spec into distributed systems :)
 -  Feel free to reach out to me at j528huan@uwaterloo.ca
--  Escapee from Computer Engineering
