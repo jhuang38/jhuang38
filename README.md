@@ -1,4 +1,4 @@
-#### Heyo! 👋 I'm James, a Computer Science student at the University of Waterloo.
+#### Hello! 👋 I'm James, a Computer Science student at the University of Waterloo.
 
 -  I've previously interned at [Newfront](https://github.com/jameshuang705), PayPal, and BMO Capital Markets as a Software Engineering Intern, mainly focusing on backend/infrastructure work.
 -  The main languages I'm familiar with are TypeScript, Python, Rust, C++,  and Java!
